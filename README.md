@@ -1,5 +1,5 @@
 # weather
-First touch with combain
+First touch with Combine
 
 Made according to the instructions of ["Swifty Talks"](https://www.youtube.com/watch?v=Uog7d8VHqX8&ab_channel=SwiftyTalks) channel
 
